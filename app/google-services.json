@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470697138260",
+    "project_id": "present-66dff",
+    "storage_bucket": "present-66dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470697138260:android:d0bdced86df75064cf75c1",
+        "android_client_info": {
+          "package_name": "com.example.present"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470697138260-o0ig9ae9u9t56l1t3hpt0p6d8iit13qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvafvLzFvBkktO77bmqTo5CVxIugPFTr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470697138260-o0ig9ae9u9t56l1t3hpt0p6d8iit13qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
